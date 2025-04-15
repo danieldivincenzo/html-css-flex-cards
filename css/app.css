@@ -37,6 +37,7 @@ li {
 
 a {
     text-decoration: none;
+    color: rgb(76, 174, 240);
 }
 
 .w-33 {
@@ -53,6 +54,6 @@ a {
     gap: 16px;
 }
 
-.card-body>* {
-    padding-top: 7px;
+h3 {
+    margin-top: 7px;
 }
